@@ -16,4 +16,4 @@ Description: A little Readme Markdown for what i'm searching and devoloping for 
  - Netlogo
  - R
  - AutoHotKey
- - VBA/VBSn
+ - VBA/VBS
